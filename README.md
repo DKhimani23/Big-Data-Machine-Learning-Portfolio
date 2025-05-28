@@ -2,7 +2,7 @@
 
 This repository showcases my coursework and project submissions for the "Big Data and Machine Learning Applications" module during my MSc in Data Analytics at the University of Portsmouth.
 
-## 📚 Module Breakdown
+## Module Breakdown
 
 ### Week 1: Exploring Hadoop Cluster
 - Navigated HDFS
@@ -16,7 +16,7 @@ This repository showcases my coursework and project submissions for the "Big Dat
 - Performed ML regression using Spark MLlib
 - Compared tree-based regressors
 
-### Week 5: Movie Recommendation Engine
+### Week 5: Building Recommender Systems - Movie Recommendations 
 - Built ALS models in Spark
 - Scaled from 1K to 20M entries
 
